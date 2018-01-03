@@ -1,7 +1,3 @@
-*.wav
-dataset
 .idea
 *.pyc
-checkpoints
-graphs
 .DS_Store
